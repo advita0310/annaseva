@@ -12,8 +12,8 @@
   #navbar h1 {
     font-family: 'Comic Sans MS';
     float: left;
-    padding-top: 20px;
-    font-size: x-large;
+   
+    font-size: 30px;
   }
   
   #navbar ul {
@@ -29,8 +29,8 @@
    
   #navbar img {
       float: left;
-      width: 130px;
-      height:80px;
+      width: 150px;
+      height: 95px;
       
   }
   #navbar ul li a {
@@ -49,11 +49,19 @@
 
 
   #showcase {
-    
-    
-    height: 650px;
+    text-align: center;
+    background: #ffdf00;
+    height: 350px;
     box-sizing: border-box;
   }
+
+  #showcase .showcase-content h2 {
+    font-family: 'Comic Sans MS';
+    padding-bottom: 20px;
+    line-height: 1.7em;
+    color: #3b3131;
+  }
+
 
   * {
     box-sizing: border-box
@@ -73,11 +81,48 @@ img {
 
 /* Footer */
 #main-footer {
+  font-size: large;
     text-align: center;
     background: #fff;
     color: #50c878;
     padding: 20px;
+    padding-top: 25px;
   }
   * {box-sizing:border-box}
 
   * {box-sizing:border-box}
+
+
+  .text-primary {
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    color: #fff;
+  }
+
+
+
+  .boxa {
+    font-family: 'Comic Sans MS';
+    font-size: 20px;
+    float:left;
+    width: 33.3%;
+    padding: 50px;
+    text-align:center;
+    background: #b5a642;
+    color: #fff;
+
+  }
+
+  .bg-primary {
+    background: #806517;
+    color: #fff;
+  }
+
+  .box {
+    font-size: 20px;
+    float:left;
+    width: 33.3%;
+    padding: 50px;
+    text-align:center;
+    font-family: 'Comic Sans MS';
+  }
