@@ -126,3 +126,124 @@ img {
     text-align:center;
     font-family: 'Comic Sans MS';
   }
+
+
+  #aboutblock {
+    text-align: center;
+    background: #faf884;
+    height: 900px;
+    box-sizing: border-box;
+  }
+
+  #aboutblock .about-content h2 {
+    font-family: 'Comic Sans MS';
+    padding-bottom: 20px;
+    line-height: 1.7em;
+    color: #3a2d05 ;
+  }
+
+  #aboutblock .about-content h1{
+    color: #5c470a ;
+    text-align: center;
+    font-family: 'Comic Sans MS';
+  }
+
+  #footer i text {
+    color:#fff;
+  
+  }
+  
+  #footer a{
+    color: #fff;
+  }
+  * {box-sizing:border-box}
+  
+  * {box-sizing:border-box}
+
+  #signUp{
+    background: #3192eb;
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 20px;
+      color:#fff;
+      cursor: pointer;
+  
+  }
+
+  #container{
+    align-self: center;
+    margin:30px auto;
+    max-width: 400px;
+    padding: 20px;
+    padding-top: 200px;
+   }
+   .form-wrap{
+ 
+       font-family: 'Comic Sans MS';
+       background:#fff;
+       padding: 15px 25px;
+       color:#50c878;
+   
+   }
+   .form-wrap h1,.form-wrap p{
+    text-align: center;
+   
+   }
+   .form-wrap .form-group{
+    margin-top: 15px;
+   }
+   .form-wrap .form-group label{
+       display:block;
+       color:#666;
+       }
+   .form-wrap .form-group input{
+     width: 100%;
+     padding:10px;
+     border:#ddd 1px solid;
+     border-radius: 5px;
+   
+   }
+   .form-wrap button{
+       background:#50c878 ;
+       display: block;
+       width: 100%;
+       padding: 10px;
+       margin-top: 20px;
+       color:#fff;
+       cursor: pointer;
+   
+   }
+   .form-wrap .button:hover{
+     background: #37a08e;
+   }
+   .form-wrap .bottom-text{
+    font-size: 13px;
+    margin-top: 20px;
+   }
+   
+
+#bglogin {
+  background: url('./images/login\ bg.jpg') no-repeat center center/cover ;
+
+  height: 900px;
+}
+   
+
+#text {
+  color: #ddd;
+}
+
+#signUp{
+  background: #50c878;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    color:#fff;
+    cursor: pointer;
+
+}
+#btn a{
+  color: #fff;
+}

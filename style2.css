@@ -1,0 +1,69 @@
+ /* Navbar */
+ #navbar {
+    background: #fff;
+    color: #50c878;
+    overflow: auto;
+  }
+  
+  #navbar a {
+    color: #50c878;
+  }
+  
+  #navbar h1 {
+    font-family: 'Comic Sans MS';
+    float: left;
+   
+    font-size: 30px;
+  }
+  
+  #navbar ul {
+    list-style: none;
+    float: right;
+  }
+  
+  #navbar ul li {
+    font-family: 'Comic Sans MS';
+    float: left;
+    font-size: 20px;
+  }
+   
+  #navbar img {
+      float: left;
+      width: 150px;
+      height: 95px;
+      
+  }
+  #navbar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #navbar ul li a:hover, 
+  #navbar ul li a.current {
+    background: #aaf0d1;
+    color: #50c878;
+  }
+  
+
+  #showcase {
+    background: url('./images/about.jpg') no-repeat center ;
+
+    height: 1500px;
+
+}
+
+/* Footer */
+#main-footer {
+    font-size: large;
+      text-align: center;
+      background: #fff;
+      color: #50c878;
+      padding: 20px;
+      padding-top: 25px;
+    }
+    * {box-sizing:border-box}
+  
+    * {box-sizing:border-box}
+  
+  
